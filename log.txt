@@ -1,0 +1,15 @@
+Command my-tweets
+Command my-tweets
+Command spotify-this-song
+Command spotify-this-song
+Command spotify-this-song
+Command spotify-this-song
+Command spotify-this-song
+Command spotify-this-song
+Command spotify-this-song
+Command spotify-this-song
+Command movie-this
+Command movie-this
+Command movie-this
+do-what-it-says
+Command spotify-this-song
